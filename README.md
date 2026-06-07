@@ -23,35 +23,35 @@ Currently, I am focused on expanding my knowledge of modern web development whil
 
 ## Featured Projects
 
-# AI Tools 
+### AI Tools 
 
 AI-powered career coaching platform. Analyzes your CV, identifies skill gaps,  recommends learning paths, and runs mock interview sessions with real-time feedback..
 Teknologi: NextJs/TypeScript/AI/TailWind.
 
 Deploy: https://coach-ai-orpin.vercel.app/  Repo: https://github.com/Ryoota95/coachAI
 
-# QuickShop 
+### QuickShop 
 
 Full-featured e-commerce platform with product catalog, cart, checkout, and Midtrans payment integration. Includes a complete admin dashboard for product and order management.
 Teknologi: NextJs/SupaBase/Midtrans/TypeScript.
 
 Deploy: https://quick-shop1.vercel.app/   Repo: https://github.com/Ryoota95/QuickShop
 
-# Circle
+### Circle
 
 Social media platform inspired by Threads. Features real-time feed, follow/unfollow system, likes, nested replies, image uploads, and socket.io for live updates..
 Teknologi: React/Express/Prisma/SocketIo/PostgreSql.
 
 Deploy: https://my-app-eight-sepia-69.vercel.app  Repo: https://github.com/Ryoota95/MyApp
 
-# RideNest
+### RideNest
 
 a platform for renting various types of vehicles with various types of vehicles that can be accessed as a user and provider..
 Teknologi: NextJs/SupaBase/TypeScript/TailWind/Express.
 
 Deploy: https://ridenest-frontend.vercel.app/    Repo: https://github.com/GirindraSW/RideNest
 
-# Pendek.In
+### Pendek.In
 
 a platform for shortening a link and creating a QR code from the link that has been created.
 Teknologi: NextJs/TypeScript/Golang/TailWind
