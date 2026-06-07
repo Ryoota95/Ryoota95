@@ -80,7 +80,9 @@ I am actively working on expanding my portfolio with new web development project
 ## Contact
 
 LinkedId : https://www.linkedin.com/in/rayyan-aby-yazid
+
 Email: rayyadabyyazid@gmail.com
+
 No : 085159602084
 
 ## Goals
