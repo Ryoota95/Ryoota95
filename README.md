@@ -2,89 +2,94 @@
 
 ## About Me
 
-I am a student with a strong interest in web development and technology. I enjoy building websites, learning new tools, and continuously improving my technical and professional skills.
+Aspiring Full-Stack Developer with experience building modern web applications using JavaScript, TypeScript, React, Next.js, Node.js, and PostgreSQL. Passionate about creating scalable, user-focused solutions and continuously improving through real-world projects.
 
-Currently, I am focused on expanding my knowledge of modern web development while building projects that help me gain practical experience.
+## Tech Stack
 
-## Skills
-
-- HTML
-- CSS
 - JavaScript
+- TypeScript
+- React.js
+- Next.js
 - Node.js
+- Express.js
+- PostgreSQL
+- Prisma
+- Supabase
+- Tailwind CSS
 - Git
 - GitHub
-- NextJs
-- ReactJs
-- TailWind
-- Express
-- TypeScript
 - Vercel
 
 ## Featured Projects
 
-### AI Tools 
+### AI Tools
 
-AI-powered career coaching platform. Analyzes your CV, identifies skill gaps,  recommends learning paths, and runs mock interview sessions with real-time feedback..
-Teknologi: NextJs/TypeScript/AI/TailWind.
+AI-powered career coaching platform that analyzes CVs, identifies skill gaps, recommends personalized learning paths, and provides mock interview sessions with real-time feedback.
 
-Deploy: https://coach-ai-orpin.vercel.app/  Repo: https://github.com/Ryoota95/coachAI
+Tech Stack: Next.js, TypeScript, AI, Tailwind CSS
 
-### QuickShop 
+Live Demo: https://coach-ai-orpin.vercel.app/
 
-Full-featured e-commerce platform with product catalog, cart, checkout, and Midtrans payment integration. Includes a complete admin dashboard for product and order management.
-Teknologi: NextJs/SupaBase/Midtrans/TypeScript.
+Repository: https://github.com/Ryoota95/coachAI
 
-Deploy: https://quick-shop1.vercel.app/   Repo: https://github.com/Ryoota95/QuickShop
+---
+
+### QuickShop
+
+Full-featured e-commerce platform with product catalog, shopping cart, checkout flow, Midtrans payment integration, and a complete admin dashboard for product and order management.
+
+Tech Stack: Next.js, TypeScript, Supabase, Midtrans
+
+Live Demo: https://quick-shop1.vercel.app/
+
+Repository: https://github.com/Ryoota95/QuickShop
+
+---
 
 ### Circle
 
-Social media platform inspired by Threads. Features real-time feed, follow/unfollow system, likes, nested replies, image uploads, and socket.io for live updates..
-Teknologi: React/Express/Prisma/SocketIo/PostgreSql.
+Social media platform inspired by Threads featuring a real-time feed, follow system, likes, nested replies, image uploads, and live updates powered by Socket.IO.
 
-Deploy: https://my-app-eight-sepia-69.vercel.app  Repo: https://github.com/Ryoota95/MyApp
+Tech Stack: React.js, Express.js, Prisma, PostgreSQL, Socket.IO
+
+Live Demo: https://my-app-eight-sepia-69.vercel.app
+
+Repository: https://github.com/Ryoota95/MyApp
+
+---
 
 ### RideNest
 
-a platform for renting various types of vehicles with various types of vehicles that can be accessed as a user and provider..
-Teknologi: NextJs/SupaBase/TypeScript/TailWind/Express.
+Vehicle rental platform that enables users to browse and rent vehicles while allowing providers to manage listings and bookings through a dedicated dashboard.
 
-Deploy: https://ridenest-frontend.vercel.app/    Repo: https://github.com/GirindraSW/RideNest
+Tech Stack: Next.js, TypeScript, Supabase, Tailwind CSS, Express.js
+
+Live Demo: https://ridenest-frontend.vercel.app/
+
+Repository: https://github.com/GirindraSW/RideNest
+
+---
 
 ### Pendek.In
 
-a platform for shortening a link and creating a QR code from the link that has been created.
-Teknologi: NextJs/TypeScript/Golang/TailWind
+URL shortening platform with QR code generation, allowing users to create and manage shortened links efficiently.
 
-Deploy: https://additional-nu.vercel.app/ |  Repo: https://github.com/Ryoota95/urlshort
+Tech Stack: Next.js, TypeScript, Golang, Tailwind CSS
 
+Live Demo: https://additional-nu.vercel.app/
 
+Repository: https://github.com/Ryoota95/urlshort
 
-### Personal Portfolio
+---
 
-A responsive personal portfolio website designed to showcase my background, skills, and projects. Built with a focus on clean design, accessibility, and user experience.
+## Personal Portfolio
+
+Personal portfolio website showcasing projects, technical skills, and development experience.
 
 Live Demo: https://rayportfolio-woad.vercel.app/
 
-### Future Projects
-
-I am actively working on expanding my portfolio with new web development projects and practical applications that demonstrate my technical growth and problem-solving abilities.
-
-## Current Focus
-
-- Improving web development skills
-- Building personal projects
-- Learning software development best practices
-- Developing professional communication and teamwork skills
-
 ## Contact
 
-LinkedId : https://www.linkedin.com/in/rayyan-aby-yazid
+LinkedIn: https://www.linkedin.com/in/rayyan-aby-yazid
 
 Email: rayyadabyyazid@gmail.com
-
-No : 085159602084
-
-## Goals
-
-My goal is to become a skilled software developer who can create useful and impactful digital solutions while continuously learning and adapting to new technologies.
